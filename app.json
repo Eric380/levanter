@@ -31,7 +31,7 @@
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
-      "required": false,
+      "required": true,
       "value": "𝑬𝒓𝒊𝒄 𝑰𝒔 𝑯𝑰𝑴!【𓍯】"
     },
     "HEROKU_APP_NAME": {
